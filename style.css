@@ -1,0 +1,9 @@
+body{
+    background-color: blue;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    font-size: larger;
+    color: white;
+}
